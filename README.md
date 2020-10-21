@@ -1,0 +1,1 @@
+Exemplo de arrow function no PHP 7.4+
